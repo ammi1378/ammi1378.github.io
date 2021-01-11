@@ -26,3 +26,5 @@ fields:
 - type: textarea
   name: solution
   label: solution
+pages:
+- content/blog/qwe.md

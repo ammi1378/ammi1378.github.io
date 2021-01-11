@@ -14,3 +14,6 @@ fields:
 - type: file
   name: postImage
   label: postImage
+pages:
+- content/blog/sdf.md
+- content/blog/test.md
